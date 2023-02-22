@@ -1,0 +1,70 @@
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyTilt.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.HomePage.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.Properties.Resources.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe.config
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.pdb
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.exe
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.pdb
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormWobbleTilt.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormButterfly.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyShift.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe.config
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.pdb
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.AssemblyReference.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.SuggestedBindingRedirects.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormButterfly.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyShift.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormWobbleTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.HomePage.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.Properties.Resources.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.GenerateResource.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.CoreCompileInputs.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.exe
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.pdb
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe.config
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.pdb
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.AssemblyReference.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.SuggestedBindingRedirects.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormButterfly.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyRotation.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyShift.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormOrdered.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormWobbleTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.HomePage.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.Properties.Resources.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.GenerateResource.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.CoreCompileInputs.cache
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.exe
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.pdb
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe.config
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.exe
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\bin\Debug\DinamikPlatformDriver.pdb
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormButterfly.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyRotation.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyShift.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyTilt.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormOrdered.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormSimpleElevatedTilt.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormWobbleTilt.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.HomePage.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.Properties.Resources.resources
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.exe
+C:\Users\DELL\Desktop\Dinamik Platform Driver (1)\Dinamik Platform Driver (1)\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.pdb
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormEasyRotation.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormOrdered.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormSimpleElevatedTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormComplexElevatedTilt.resources
+C:\Users\seher\OneDrive - Elondor\Desktop\Dinamik Platform Driver\DinamikPlatformDriver\DinamikPlatformDriver\obj\Debug\DinamikPlatformDriver.FormTwoStageElevatedTilt.resources
